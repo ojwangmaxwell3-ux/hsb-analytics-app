@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+scikit-learn
+scipy
+statsmodels
+xgboost
+lightgbm
+catboost
+umap-learn
+shap
+mlxtend
+pingouin
+numpy

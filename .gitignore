@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+      0 .agents/
+      0 total
+.agents/
+app_backup*.py
